@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: rgb(247, 178, 178);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#num2 {
+    color: rgb(18, 18, 225);
+    font-size: 36px;
+}
+
+/* i added both n3 and n4 a class called additional, since they share the same font-size */
+.additional {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(154, 241, 180);
+    font-weight: bold;
+}
