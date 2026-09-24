@@ -1,3 +1,5 @@
+This repository will not be updated anymore. I will focus on the backend part of the TOP curriculum.
+
 # CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
