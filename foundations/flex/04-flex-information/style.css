@@ -10,6 +10,8 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -23,4 +25,24 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center; /* centralizes the div horizontally */
+  align-items: center;
+  gap: 52px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column; /* here i use column because as seen in the desired-outcome.png, the img is above the text*/
+  align-items: center;
+}
+
+.item .text {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  width: 200px;
 }
