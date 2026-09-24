@@ -30,6 +30,7 @@ body {
 .big-btn {
   display: block;
   margin: 0 auto;
+  height: 35px;
 }
 
 .title {
